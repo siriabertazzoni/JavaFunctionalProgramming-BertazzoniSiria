@@ -1,0 +1,12 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#242271",
+        "titleBar.activeBackground": "#322F9F",
+        "titleBar.activeForeground": "#FBFBFE"
+    }
+}
